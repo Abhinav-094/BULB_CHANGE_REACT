@@ -34,7 +34,7 @@ function App() {
       off_btn_setenabled(false)
 
   }
-
+//bulb off function
   function off_bulb(event)
   {
     setbulb(IMG)
