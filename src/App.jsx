@@ -42,6 +42,7 @@ function App() {
     setcolor("");
   }
 
+  //select color function
   function select_color(event)
   {
     setcolor(event.target.value);
