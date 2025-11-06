@@ -5,6 +5,7 @@ import RED_IMAGE from "./IMG/red_bulb.jpg";
 import GREEN_COLOR from "./IMG/gree_bulb.jpg";
 import BLUE_BULB from "./IMG/blue_bulb.jpg";
 import "./style.css";
+//app function
 function App() {
   const [bulb , setbulb]=useState(IMG);
   const [color , setcolor]=useState("");
