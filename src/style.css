@@ -1,0 +1,32 @@
+#select_id
+{
+    width: 550px;
+    height: 30px;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px grey;
+    cursor: pointer;
+}
+#on_btn, #off_btn
+{
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px grey;
+    cursor: pointer;
+}
+#bulb_img
+{
+    width: 300px;
+    height: 500px;
+    margin-top: 20px;
+}
+#main_div
+{
+    text-align: center;
+    margin-top: 50px;
+}
